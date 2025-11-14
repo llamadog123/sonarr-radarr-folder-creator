@@ -2,7 +2,7 @@ import requests
 import os
 
 # Sonarr API settings
-SONARR_API_URL = "http://your-sonarr-url/api"
+SONARR_API_URL = "http://your-sonarr-url/api/v3"
 SONARR_API_KEY = "your-sonarr-api-key"
 
 # Function to make a GET request to Sonarr API
